@@ -6,6 +6,5 @@ public class Brad20 {
     Bike myBike = new Bike() ;
     System.out.println(myBike.speed);
 
-	}
-
+	}//測試
 }

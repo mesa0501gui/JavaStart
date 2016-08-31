@@ -11,9 +11,7 @@ public class TWid {
 
 	}
 	public TWid(Boolean  Area) {
-         
-		this(Area) ;
-
+    
 	}
 	
 	
